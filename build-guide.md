@@ -22,6 +22,10 @@ Apktool包含以下几个子项目
 
 2. 使用一下两种方式构建
 
+{% hint style="info" %}
+v2.10 从 Proguard 迁移到 R8, 但是暂时保留了 Proguard 的命名. 这将在未来更新
+{% endhint %}
+
 **不使用R8 (JDK > 8)**
 
 ```
@@ -39,6 +43,10 @@ Apktool包含以下几个子项目
 这会生成一个jar文件：`brut.apktool/apktool-cli/build/libs/apktool-vXXX.jar`
 
 **windows Requirements**
+
+{% hint style="warning" %}
+注意 Windows 下的目录路径长度限制
+{% endhint %}
 
 windows有文件路径长度的限制，Apktool项目中有一个路径的长度来到了218个字符，由于windows最大256个字符的限制，你需要满足如下要求：
 
