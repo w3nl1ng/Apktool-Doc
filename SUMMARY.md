@@ -2,3 +2,4 @@
 * [构建指南](build-guide.md)
 * [安装指南](install-guide.md)
 * [命令行参数](cli-parameters.md)
+* [FAQ](FAQ.md)
