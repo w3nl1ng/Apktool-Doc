@@ -5,3 +5,4 @@
 * [FAQ](FAQ.md)
 * [基础知识]()
   * [导言](the-basics/introduction.md)
+  * [解包](the-basics/decoding.md)
