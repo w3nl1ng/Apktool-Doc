@@ -36,7 +36,7 @@ I: Copying assets and libs...
 
 重新查看`AndroidManifest.xml`文件，你会得到一些人类可读的内容
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <manifest xmlns:android="https://schemas.android.com/apk/res/android" package="brut.apktool.testapp"
           platformBuildVersionCode="21" platformBuildVersionName="APKTOOL" />
