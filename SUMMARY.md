@@ -3,3 +3,5 @@
 * [安装指南](install-guide.md)
 * [命令行参数](cli-parameters.md)
 * [FAQ](FAQ.md)
+* [基础知识]()
+  * [导言](the-basics/introduction.md)
