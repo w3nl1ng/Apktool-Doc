@@ -11,3 +11,4 @@
 * [深入知识](in-depth/README.md)
   * [9Patch图片](in-depth/9Patch-images.md)
   * [Frameworks](in-depth/frameworks.md)
+  * [资源模式](in-depth/resource-modes.md)
