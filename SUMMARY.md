@@ -17,3 +17,4 @@
 * [Meta](meta/README.md)
   * [Pitch & anti-pitch](meta/pitch.md)
   * [贡献](meta/contributing.md)
+* [即将发布](upcoming-release.md)
