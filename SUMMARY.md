@@ -12,3 +12,5 @@
   * [9Patch图片](in-depth/9Patch-images.md)
   * [Frameworks](in-depth/frameworks.md)
   * [资源模式](in-depth/resource-modes.md)
+* [高级主题](advanced-topics/README.md)
+  * [resources.arsc文件](advanced-topics/resources-arsc.md)
