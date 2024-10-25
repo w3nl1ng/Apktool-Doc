@@ -16,3 +16,4 @@
   * [resources.arsc文件](advanced-topics/resources-arsc.md)
 * [Meta](meta/README.md)
   * [Pitch & anti-pitch](meta/pitch.md)
+  * [贡献](meta/contributing.md)
