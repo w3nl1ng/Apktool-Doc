@@ -3,7 +3,7 @@
 * [安装指南](install-guide.md)
 * [命令行参数](cli-parameters.md)
 * [FAQ](FAQ.md)
-* [基础知识]()
+* [基础知识](the-basics/README.md)
   * [导言](the-basics/introduction.md)
   * [解包](the-basics/decoding.md)
   * [打包](the-basics/building.md)
