@@ -14,3 +14,5 @@
   * [资源模式](in-depth/resource-modes.md)
 * [高级主题](advanced-topics/README.md)
   * [resources.arsc文件](advanced-topics/resources-arsc.md)
+* [Meta](meta/README.md)
+  * [Pitch & anti-pitch](meta/pitch.md)
